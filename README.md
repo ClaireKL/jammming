@@ -9,4 +9,4 @@ Check out the app here: ðŸŽ¶ [JAMMMING](https://clairekl-jammming.netlify.app) ð
 
 ----
 
-*Also, if you're interested in learning REACT through projects, check out this Codecademy curriculum*[*HERE!*](https://www.codecademy.com/learn/paths/build-web-apps-with-react)
+*Also, if you're interested in learning REACT through projects, check out this Codecademy curriculum* [*HERE!*](https://www.codecademy.com/learn/paths/build-web-apps-with-react)
